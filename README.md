@@ -13,6 +13,6 @@
 ## 穷竭搜索
 所谓穷竭搜索，就是把所有的可能性都列出来，选出答案。
 - 深度优先搜索(Depth First Search):搜索到无法继续搜索的时候退一步，继续搜索，直到所有结果都被遍历。
-- [x] [POJ2386](http://poj.org/problem?id=2386)
-- [x] [POJ1979](http://poj.org/problem?id=1979)
-- [x] [AOJ0118](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0118)
+    - [x] [POJ2386](http://poj.org/problem?id=2386)
+    - [x] [POJ1979](http://poj.org/problem?id=1979)
+    - [x] [AOJ0118](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0118)
