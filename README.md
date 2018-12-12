@@ -16,3 +16,4 @@
     - [x] [POJ2386](http://poj.org/problem?id=2386)
     - [x] [POJ1979](http://poj.org/problem?id=1979)
     - [x] [AOJ0118](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0118)
+    - [x] [POJ1321](http://poj.org/problem?id=1321)
