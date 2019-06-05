@@ -5,9 +5,13 @@
 
 2012年开始接触ACM，仅仅坚持了一年就因为学业和个人原因放弃。时隔6年，想要重新拾起ACM，算是拓展自己，以及为过去的事情赎罪吧。。
 
+因为太久没有接触C和C++的东西了，有些生疏，所以除了上面的挑战程序设计大赛，再加一本算法竞赛入门经典，来回顾一下C和C++的一些内容，基础的知识可能会稍微带一下，不会详细记述，着重记录已经忘记的，生疏的，或者压根不知道的内容。
+
 ## 题库
 - Peking University Online Judge ([POJ](http://poj.org/))
 - Aizu Online Judge ([AOJ](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=en))
+
+# 《算法竞赛入门经典》部分
 
 # 第二章:初出茅庐，初级篇
 ## 穷竭搜索
